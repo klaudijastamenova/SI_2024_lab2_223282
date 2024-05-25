@@ -19,7 +19,8 @@ Every Branch критериум
 
 Multiple Condition
 (test cases):
-![MC](https://github.com/klaudijastamenova/SI_2024_lab2_223282/assets/165088169/f79afe42-3e34-454b-a455-8764926df252)
+![MC_test-cases](https://github.com/klaudijastamenova/SI_2024_lab2_223282/assets/165088169/56b73f2f-6ac6-41f7-933e-83869d29f89a)
+
 
 
 
